@@ -7,3 +7,4 @@ class MusicAdmin(admin.ModelAdmin):
     list_display = ('title', 'artist', 'album', 'genre', 'year', 'timestamp', 'updated', 'user')
     list_filter = ('title', 'artist', 'album', 'genre', 'year', 'timestamp', 'updated', 'user')
     search_fields = ('title', 'artist', 'album', 'genre', 'year', 'timestamp', 'updated', 'user')
+
