@@ -1,7 +1,5 @@
 # **Lab: Permissions & Postgresql**
 
-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
-
 # **Feature Tasks and Requirements**
 
 ## **Features - Django REST Framework**
